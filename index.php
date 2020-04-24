@@ -1,3 +1,3 @@
 <?php
-echo "Hello Fucking Word 666";
+echo "Hello Fucking Word 69";
 ?>
